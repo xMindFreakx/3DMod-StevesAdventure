@@ -10,6 +10,8 @@ backyard : https://upload.wikimedia.org/wikipedia/commons/0/0b/Backyard_table_at
 pickaxe : http://www.pixelpapercraft.com/files/1346065999565.jpg
 diamand : https://i.ytimg.com/vi/jVL0astNyno/hqdefault.jpg
 Schwert : http://minecraft.gamepedia.com/Sword
+Steve : http://ionia.enjin.com/forum/m/24803671/viewthread/23563418-minecraft-skin-tutorial
+Chiken : http://minecraftgallery.com/wp-content/uploads/2011/07/minecraft_chicken_wallpaper_by_lynchmob10_09-d3jv1tb.jpg
 
 Tischtexture: http://www.holzdielen.org/holzdielen-varianten/kirsche-holzdielen/
 			Alternative Holztextures (NICHT VERWENDET):
